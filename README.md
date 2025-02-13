@@ -10,7 +10,8 @@ git config --global user.email "your.email@example.com"
 add your github link here like. https://github.com/AaqibRajput15
 
 # fahad
-https://github.com/fahad5118/
+Project Link: https://github.com/fahad5118/Final-Project
+Vercel Link: 
 
 # Maryam Ismail
 Github link. https://github.com/TheMaryamIsmail Project link: https://github.com/TheMaryamIsmail/Webpage
