@@ -70,3 +70,5 @@ Vercel: https://web-page-beta-nine.vercel.app/
 # Sara Ayub
 final project: https://github.com/thesaraayub/final-project---e-commerce-wesite
 
+# Sehar Amin
+Final Project: https://github.com/seharamin/Final-Project-E-commerce
