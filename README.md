@@ -40,7 +40,7 @@ https://github.com/bela413
 https://github.com/shezandawood
 
 # Suleman
-https://github.com/Suleman-Ali/repo
+https://github.com/Suleman-Ali/websitE
 
 # Ali Raza
 https://github.com/AliRazaZabtech
