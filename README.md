@@ -32,6 +32,7 @@ https://github.com/maryamkhan55
 
 # Sneha 
 https://github.com/snehapatras
+ProjectLink: https://github.com/snehapatras/Adapt.RX
 
 # Bela
 https://github.com/bela413
