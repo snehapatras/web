@@ -33,6 +33,7 @@ https://github.com/maryamkhan55
 # Sneha 
 https://github.com/snehapatras
 ProjectLink: https://github.com/snehapatras/Adapt.RX
+websiteLink: https://adapt-rx-snehas-projects-fba9dec9.vercel.app/
 
 # Bela
 https://github.com/bela413
